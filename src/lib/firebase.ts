@@ -7,13 +7,14 @@ import { getFunctions } from "firebase/functions";
 // https://firebase.google.com/docs/web/setup#available-libraries
 
 // Your web app's Firebase configuration
+// This data is fake; you have to replace it with your own data
 const firebaseConfig = {
-  apiKey: "AIzaSyCdCq8caJSOYOljn5jMqjtdPZZBqGHZnGM",
-  authDomain: "relationalai-documentation.firebaseapp.com",
-  projectId: "relationalai-documentation",
-  storageBucket: "relationalai-documentation.appspot.com",
-  messagingSenderId: "367964860226",
-  appId: "1:367964860226:web:f2469f26d9172f0d6262db"
+  apiKey: "TIvaSyCdCU8caJSOYqljn5jMqjtdsPZZBqGZnGY",
+  authDomain: "example.firebaseapp.com",
+  projectId: "example",
+  storageBucket: "example.appspot.com",
+  messagingSenderId: "363964760221",
+  appId: "1:317964863226:web:a2469f26d9572f0d6261db"
 };
 
 // Initialize Firebase

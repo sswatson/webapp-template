@@ -1,0 +1,15 @@
+
+
+// for other customizable sass variables, see
+// https://github.com/picocss/pico/tree/master/scss/themes/default
+$primary-hue: 205;
+
+@import "@picocss/pico/scss/pico";
+
+:root {
+  --nav-height: 4rem;
+}
+
+main {
+  overflow-y: scroll;
+}
